@@ -1,0 +1,9 @@
+// What is datastructure
+==> A named location that can be used to store and organize data
+    (like an array: collection of elements stored at contifuous memory locations)
+
+// What is algotithm
+==> a collection of steps to solve a problem 
+    (like sorting algorithms...)
+    Sorting algorithms : Sorting algorithms are designed to reorder a list or array of elements in a particular order,
+    often in ascending or descending order.
