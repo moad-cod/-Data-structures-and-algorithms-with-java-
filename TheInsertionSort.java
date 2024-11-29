@@ -8,6 +8,7 @@
 public class TheInsertionSort {
     void InsertionSort(int[] arr) {
         int n = arr.length;
+        System.out.println(n);
         for (int i = 1; i < n; i++) { // Start from the second element
             int key = arr[i]; // Element to insert
             int j = i - 1;
